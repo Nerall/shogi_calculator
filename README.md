@@ -6,6 +6,12 @@ Given a tournament sheet, the program returns the ELO updates and the matches li
 
 See https://eshogifr.fandom.com/fr/wiki/Elo_e-shogi.fr for more details
 
+## Run
+
+`./shogi_calculator.py [TournamentFile]`
+
+This call creates a new file in the same folder called `[résultats_TournamentFile]`
+
 ## Authors
 
 * Neral
