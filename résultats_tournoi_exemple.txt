@@ -1,0 +1,28 @@
+Tournoi Exemple : 2020-12-07
+2020-12-07
+
+Martin Marie
+	ELO  1576 -> 1584 (1638)	nb parties  20 -> 22
+Bernard Jean
+	ELO  1300 -> 1304 (1304)	nb parties  20 -> 23
+Thomas Pierre
+	ELO* 1000 -> 1036 (1102)	nb parties  4 -> 6
+Petit Michel
+	ELO*  700 ->  906 ( 903)	nb parties  0 -> 3
+
+Parties jouées :
+
+Martin Marie
+    gagne contre Bernard Jean
+    gagne contre Petit Michel
+Bernard Jean
+    perd contre Martin Marie
+    gagne contre Petit Michel
+    gagne contre Thomas Pierre
+Thomas Pierre
+    gagne contre Petit Michel
+    perd contre Bernard Jean
+Petit Michel
+    perd contre Thomas Pierre
+    perd contre Bernard Jean
+    perd contre Martin Marie

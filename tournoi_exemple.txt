@@ -1,0 +1,7 @@
+[Tournoi Exemple : 2020-12-07]
+[2020-12-07]
+
+1	[Martin][Marie][1576][20]			[2+ 0+ 4+]
+2	[Bernard][Jean][1300][20]			[1- 4+ 3+]
+3	[Thomas][Pierre][1000][4]	       	[4+ 0- 2-]
+4	[Petit][Michel][0][0]	    		[3- 2- 1-]
